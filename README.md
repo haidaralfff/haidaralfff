@@ -35,9 +35,8 @@ Here’s what I love to build with:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/haidaralfff)
-- 💻 [GitHub](https://github.com/haidaralfff)
-- ✉️ Email: haidaralfff@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/haidar-habibi-109a41372/)
+- 💻 [GitHub](https://github.com/haidaralfff/haidaralff)
 
 ---
 
