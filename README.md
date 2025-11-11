@@ -1,6 +1,6 @@
-# 👋 Fancy seeing you here!
+# 👋 Hey, I'm Haidar!!
 
-## Hey, I'm Haidar! 💻
+
 
 ![Funny Anime Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh6Y3djZnl3ZmY5ajRudHczbnZsbHF4Y2Zhb3lydGZ4aWsybnc0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
