@@ -14,7 +14,6 @@ I enjoy combining clean design, interactivity, and performance to create a seaml
 Here’s what I love to build with:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,21 +24,13 @@ Here’s what I love to build with:
 
 ---
 
-## 🔭 Current Focus
-
-- 💡 Developing **modern and scalable** web apps with **React.js**
-- 🎨 Styling **responsive UIs** using **Tailwind CSS** and **Bootstrap**
-- ⚡ Improving performance and code maintainability
-- 🌱 Continuously learning and exploring frontend best practices
-
----
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/haidar-habibi-109a41372/)
-- 💻 [GitHub](https://github.com/haidaralfff/haidaralff)
+
 
 ---
 
-```python
-print("Arigatou for visiting my profile! 💖")
+```print
+("Arigatou for visiting my profile! 💖")
