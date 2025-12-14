@@ -2,13 +2,6 @@
 
 
 
-![https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JicGZtZWJqYjR0dXQxYWI0dnRsczE3ZjIzbDBqcW8zbDcxZXFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mscw2tH9hcAne/giphy.gif])
-
-I'm a **Frontend Developer** passionate about crafting beautiful and responsive web interfaces.  
-I enjoy combining clean design, interactivity, and performance to create a seamless user experience.
-
----
-
 ## 🧰 Tech Stack
 
 Here’s what I love to build with:
