@@ -2,7 +2,7 @@
 
 
 
-![Funny Anime Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh6Y3djZnl3ZmY5ajRudHczbnZsbHF4Y2Zhb3lydGZ4aWsybnc0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+![https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JicGZtZWJqYjR0dXQxYWI0dnRsczE3ZjIzbDBqcW8zbDcxZXFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mscw2tH9hcAne/giphy.gif])
 
 I'm a **Frontend Developer** passionate about crafting beautiful and responsive web interfaces.  
 I enjoy combining clean design, interactivity, and performance to create a seamless user experience.
