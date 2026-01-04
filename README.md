@@ -11,7 +11,6 @@
 - ⚛️ Frontend Development  
 - 🎨 UI / UX Implementation  
 - 📱 Responsive Web Design  
-- 🧠 Clean & Maintainable Code  
 
 ---
 
