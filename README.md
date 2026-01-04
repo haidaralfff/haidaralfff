@@ -1,29 +1,47 @@
-# 👋 Hey, I'm Haidar!!
+# 👋 Hi, I'm **Haidar** 👨‍💻✨  
+> *Informatics Student at Universitas Putra Bangsa*  
+> *Frontend Developer Enthusiast*
 
+🎯 I am an **Informatics student of Universitas Putra Bangsa** with a strong focus on becoming a  
+**Frontend Developer**. I enjoy building **modern, responsive, and user-friendly interfaces** using current web technologies.
 
+---
+
+## 🚀 Focus
+- ⚛️ Frontend Development  
+- 🎨 UI / UX Implementation  
+- 📱 Responsive Web Design  
+- 🧠 Clean & Maintainable Code  
+
+---
 
 ## 🧰 Tech Stack
+Technologies I work with:
 
-Here’s what I love to build with:
-
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎨 Styling
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠 Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
+## 🎯 Career Goal
+> Become a **professional Frontend Developer** who builds fast, accessible, and visually appealing web applications.
+
+---
 
 ## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/haidar-habibi-109a41372/)
-
+- 💼 **LinkedIn**  
+  👉 [linkedin.com/in/haidar-habibi-109a41372](https://www.linkedin.com/in/haidar-habibi-109a41372/)
 
 ---
 
-```print
-("Arigatou for visiting my profile! 💖")
+```jsx
+console.log("Arigatou for visiting my profile! 💖");
