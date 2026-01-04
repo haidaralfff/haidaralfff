@@ -41,6 +41,12 @@ Technologies I work with:
   👉 [linkedin.com/in/haidar-habibi-109a41372](https://www.linkedin.com/in/haidar-habibi-109a41372/)
 
 ---
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github.com/haidaralfff/haidaralfff/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
 
 ```jsx
 console.log("Arigatou for visiting my profile! 💖");
