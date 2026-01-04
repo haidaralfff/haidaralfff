@@ -11,6 +11,7 @@
 - ⚛️ Frontend Development  
 - 🎨 UI / UX Implementation  
 - 📱 Responsive Web Design  
+- 🧠 Clean & Maintainable Code  
 
 ---
 
@@ -31,6 +32,14 @@ Technologies I work with:
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github.com/haidaralfff/haidaralfff/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
 ## 🎯 Career Goal
 > Become a **professional Frontend Developer** who builds fast, accessible, and visually appealing web applications.
 
@@ -41,12 +50,6 @@ Technologies I work with:
   👉 [linkedin.com/in/haidar-habibi-109a41372](https://www.linkedin.com/in/haidar-habibi-109a41372/)
 
 ---
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/haidaralfff/haidaralfff/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
 
 ```jsx
 console.log("Arigatou for visiting my profile! 💖");
