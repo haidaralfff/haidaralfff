@@ -37,11 +37,6 @@ Technologies I work with:
 
 ---
 
-## 📫 Let's Connect
-- 💼 **LinkedIn**  
-  👉 [linkedin.com/in/haidar-habibi-109a41372](https://www.linkedin.com/in/haidar-habibi-109a41372/)
-
----
 
 ```jsx
 console.log("Arigatou for visiting my profile! 💖");
